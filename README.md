@@ -1,7 +1,14 @@
 # AIC-AeroSpace
 Space exploration with Ethical AI infrastructure. 
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a85185cd-4911-4166-8c3f-afcfc221f620" />
+<p align="center">
+  <img src="assets/AIC-Aerospace.png" alt="AIC Logo" width="1024" length = "1024"/>
+</p>
+
+<p align="center">
+  <strong> AIC-Aerospace </strong><br>
+  Decentralized nodes • Ethical scaling • Planetary readiness
+</p>
 
 AIC-Aerospace is a non-profit, open research initiative under the Adaptive Intelligence Circle (AIC),  
 focused on applying adaptive, ethical, and human-aligned intelligence systems to space exploration.
